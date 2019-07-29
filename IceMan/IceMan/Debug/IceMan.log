@@ -1,0 +1,4 @@
+﻿  StudentWorld.cpp
+c:\users\jerem\downloads\iceman-skeleton-windows\iceman-skeleton-windows\iceman\iceman\studentworld.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\jerem\downloads\iceman-skeleton-windows\iceman-skeleton-windows\iceman\iceman\studentworld.cpp(370): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  IceMan.vcxproj -> C:\Users\jerem\Downloads\IceMan-skeleton-windows\IceMan-skeleton-windows\IceMan\Debug\IceMan.exe
